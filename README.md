@@ -6,7 +6,7 @@
 <span style="color: #00ff40;">> Smart India Hackathon (Team Lead) • Multi-college Hackathons • Code Challenges • Paper Presentations</span>
 
 <span style="color: #00ff00; font-weight: bold;">VIKRAM@mavic</span>:~$ <span style="color: #00cc00;">ls -l stack/</span>
-<span style="color: #00ff40;">> Java • Python • GIS Prototyping • Chatbot Development • Problem Solving</span>
+<span style="color: #00ff40;">> Java • Python • GIS Prototyping • Drone-based spatial data collection and analysis • Chatbot Development • Problem Solving</span>
 
 <span style="color: #00ff00; font-weight: bold;">VIKRAM@mavic</span>:~$ <span style="color: #00cc00;">./hack.sh --status</span>
 <span style="color: #00ff40;">> [✓] Built 2+ functional prototypes • [✓] Led college teams • [✓] Learning in public</span>
