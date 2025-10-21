@@ -8,7 +8,7 @@
 
 <pre>
 <span style="color: #00ff00; font-weight: bold;">VIKRAM@mavic</span>:~$ <span style="color: #00cc00;">whoami</span>
-<span style="color: #00ff40;">> BCA '25 • Mavic Aviation Intern • Prototype Builder</span>
+<span style="color: #00ff40;">> BCA '25 • Former Mavic Aviation Intern • Prototype Builder</span>
 
 <span style="color: #00ff00; font-weight: bold;">VIKRAM@mavic</span>:~$ <span style="color: #00cc00;">cat experience.txt</span>
 <span style="color: #00ff40;">> Smart India Hackathon (Team Lead) • Multi-college Hackathons • Code Challenges • Paper Presentations</span>
