@@ -31,7 +31,7 @@
 ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
 -->
 <span style="color: #00ff40;">> 🔗 [![Portfolio](https://img.shields.io/badge/Portfolio-0D1117?style=flat&logo=firefox&logoColor=00ff40&color=00aa40)](https://vikram-tech.pages.dev/)</span>
-<span style="color: #00ff40;">  🔗 [![Blog](https://img.shields.io/badge/Portfolio-0D1117?style=flat&logo=firefox&logoColor=00ff40&color=00aa40)](https://xoday.pages.dev/)</span>
+<span style="color: #00ff40;">> 📝 [![Blog](https://img.shields.io/badge/Blog-0D1117?style=flat&logo=rss&logoColor=00ff40&color=00aa40)](https://xoday.pages.dev/)</span>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=vikram-tech-dev&show_icons=true&theme=dark&bg_color=0D1117&border_color=00ff40&title_color=00ff40&text_color=ffffff" 
        alt="VIKRAM's GitHub Stats" 
